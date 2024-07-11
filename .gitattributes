@@ -1,5 +1,0 @@
-# These settings are for gzipped files
-Build/*.gz   binary
-Build/*.gz   -text
-Build/*.gz   diff
-Build/*.gz   merge
